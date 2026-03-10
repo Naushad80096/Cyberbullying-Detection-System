@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cyberbullying Detection using Machine Learning
 
 Technologies
@@ -14,3 +15,7 @@ Text preprocessing
 Feature extraction
 Model training
 Visualization
+=======
+# Cyberbullying-Detection-System
+ml simple project
+>>>>>>> 6eff3b8001d083e95506d282b285b5082363af21
